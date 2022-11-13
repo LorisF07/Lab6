@@ -1,0 +1,79 @@
+<body>
+<head>
+<style>
+body {
+  background-color: white;
+  color: gray;
+}
+
+h1 {
+  background-color: black;
+  color: green;
+}
+
+</style>
+</head>
+<body>
+
+<h1>Laborator 5</h1>
+<p>Nume:Ferragosto Loris</p>
+<p>Email:ferragostoloris18@gmail.com</p>
+<p>Educatia este pur si simplu sufletul societatii trecand de la o generatie la alta. Asteptarile mele sunt de a deveni inginer la finalizarea facultatii</p>
+<img src="poza.jpg" alt="Italian Trulli">
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200;
+}
+</style>
+</head>
+<body>
+
+<h2>Pasiuni si Hobby-uri</h2>
+
+<ul>
+  <li>Gaming</li>
+  <li>Condusul masinii</li>
+  <li>Calatoriile</li>
+</ul>  
+
+<html>
+<style>
+
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>Tabel discipline pe care doresc sa le aprofundez </h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Disciplina </th>
+    <th>Anul de studiu</th>
+    <th>Fisa disciplinei</th>
+  </tr>
+  <tr>
+    <td>Semnale si sisteme</td>
+    <td>Anul 2</td>
+    <td>https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/17.pdf</td>
+  </tr>
+  <tr>
+    <td>Tehnologii web</td>
+    <td>Anul 3</td>
+    <td>https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/35.pdf</td>
+  </tr>
+  <tr>
+  <td>Microelectronica</td>
+    <td>Anul 4</td>
+    <td>https://etti.utcluj.ro/files/Acasa/Site/FiseDisciplina/EaRo/49_20.pdf</td>
+  </tr>
+</table>
+
+
+</body>
+</html>
+
